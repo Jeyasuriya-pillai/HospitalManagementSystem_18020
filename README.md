@@ -1,6 +1,6 @@
 ## 📌 Hospital Management System (Kotlin - Console Based)
 
-🚀 [Click here to run the application live in your browser!](https://replit.com/@jeyasuriya01/HospitalManagementSystem18020#replit.md)
+🚀 [Click here to run the application live in your browser!](https://replit.com/@jeyasuriya01/HospitalManagementSystem18020)
 
 A beginner-friendly, console-based Hospital Management application written in Kotlin. This project demonstrates core object-oriented programming concepts using dynamic data structures like MutableList. It allows users to efficiently manage patients, doctors, appointments, billing, staff, and medicine inventory through a simple menu-driven interface.
 
